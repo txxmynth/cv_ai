@@ -1,0 +1,952 @@
+Date,Net_Sales,Orders,Guests,holiday,is_gameday,is_pride_festival,is_arnold,Average Temp (°F),Average Humidity (%),Common Weather Description
+6/10/2021,2665.3,58,120,,No,No,No,75.33,85.82,light rain
+6/11/2021,2828.68,71,162,,No,No,No,78.29,81,light rain
+6/12/2021,3641.75,80,168,,No,No,No,81.15,72.09,broken clouds
+6/15/2021,2021.7,63,114,,No,No,No,72.39,59.82,sky is clear
+6/16/2021,1654.5,45,84,,No,No,No,68.66,46,sky is clear
+6/17/2021,2313.64,59,119,,No,No,No,73.2,49.09,sky is clear
+6/18/2021,4433.57,112,219,,No,Pride Festival,No,71.33,75.73,sky is clear
+6/19/2021,3018.2,72,148,,No,Pride Festival,No,73.48,78.91,moderate rain
+6/22/2021,1869.85,57,112,,No,No,No,64.16,55.91,sky is clear
+6/23/2021,2062.37,50,119,,No,No,No,69.27,53.18,sky is clear
+6/24/2021,1590.25,51,97,,No,No,No,76.01,59.18,scattered clouds
+6/25/2021,3555.92,91,185,,No,No,No,76.08,72.18,light rain
+6/26/2021,4218.35,89,209,,No,No,No,81.02,66.18,broken clouds
+6/28/2021,1136.5,36,60,,No,No,No,83.06,70.64,sky is clear
+6/29/2021,2188.04,62,118,,No,No,No,86.72,67.64,sky is clear
+6/30/2021,3206.76,81,166,,No,No,No,78.58,82,light rain
+7/1/2021,2904.58,77,164,,No,No,No,71.17,92.91,light rain
+7/2/2021,3046.2,87,169,,No,No,No,68.86,65.82,broken clouds
+7/3/2021,2828.74,64,137,,No,No,No,71.73,64.36,scattered clouds
+7/5/2021,3721.98,82,200,,No,No,No,83.6,66.27,sky is clear
+7/6/2021,1816.58,56,114,,No,No,No,84.69,68.73,sky is clear
+7/7/2021,1597,43,80,,No,No,No,83.94,67.36,sky is clear
+7/8/2021,2704.45,69,139,,No,No,No,77.93,81.08,light rain
+7/9/2021,3705.65,93,198,,No,No,No,69.94,80.09,overcast clouds
+7/10/2021,3681.2,84,196,,No,No,No,70.99,74.82,sky is clear
+7/12/2021,1191.8,38,66,,No,No,No,78.61,80.64,light rain
+7/13/2021,2062.35,57,114,,No,No,No,76.11,84.73,light rain
+7/14/2021,2384.44,68,140,,No,No,No,78.1,78.27,overcast clouds
+7/15/2021,2519.06,60,120,,No,No,No,81.26,74.45,sky is clear
+7/16/2021,4283.71,84,202,,No,No,No,78.87,81.25,light rain
+7/17/2021,4914.75,105,250,,No,No,No,75.13,86,light rain
+7/19/2021,2092,56,106,,No,No,No,77.97,65.27,sky is clear
+7/20/2021,2187.57,59,123,,No,No,No,78.7,73.36,scattered clouds
+7/21/2021,2412.95,68,122,,No,No,No,73.7,71.73,broken clouds
+7/22/2021,1645.03,53,102,,No,No,No,72.39,61.09,sky is clear
+7/23/2021,3660.75,89,191,,No,No,No,74.4,64.09,sky is clear
+7/24/2021,3085.25,72,164,,No,No,No,78.51,67.73,sky is clear
+7/26/2021,1673.23,45,84,,No,No,No,82.78,60.36,sky is clear
+7/27/2021,2405.4,63,133,,No,No,No,80.51,60.18,sky is clear
+7/28/2021,2210.8,60,118,,No,No,No,80.5,69.45,scattered clouds
+7/29/2021,2773.01,70,139,,No,No,No,77.18,87.25,mist
+7/30/2021,3344.35,84,174,,No,No,No,76.56,67.82,broken clouds
+7/31/2021,4021.99,93,190,,No,No,No,73.28,65.27,sky is clear
+8/2/2021,2048.55,56,108,,No,No,No,71.02,67.27,scattered clouds
+8/3/2021,2078.86,58,116,,No,No,No,73.46,59.45,sky is clear
+8/4/2021,2205.35,56,106,,No,No,No,75.71,53.09,broken clouds
+8/5/2021,2793.17,64,139,,No,No,No,78.12,59.18,sky is clear
+8/6/2021,2790.35,72,144,,No,No,No,79.11,67.27,sky is clear
+8/7/2021,3611.05,84,184,,No,No,No,78.86,70.73,sky is clear
+8/9/2021,2370.95,63,129,,No,No,No,79.03,77.18,sky is clear
+8/10/2021,2514.71,74,147,,No,No,No,81.22,78.55,light rain
+8/11/2021,2146.8,51,120,,No,No,No,84.05,77.64,moderate rain
+8/12/2021,2298.63,64,130,,No,No,No,85.53,73.91,sky is clear
+8/13/2021,4397.96,100,213,,No,No,No,79.97,80.73,light rain
+8/14/2021,3601.1,84,183,,No,No,No,77.08,68.82,overcast clouds
+8/16/2021,2380.1,63,133,,No,No,No,71.78,92,light rain
+8/17/2021,2685.35,74,140,,No,No,No,73.27,94.91,light rain
+8/18/2021,2104.59,64,108,,No,No,No,78.32,79.91,light rain
+8/19/2021,2906.35,55,112,,No,No,No,77.11,84.91,scattered clouds
+8/20/2021,3250,82,158,,No,No,No,79.08,71.91,sky is clear
+8/21/2021,4214.47,83,203,,No,No,No,79.59,71.64,sky is clear
+8/23/2021,883.25,28,45,,No,No,No,83.16,72,scattered clouds
+8/24/2021,2076.61,66,124,,No,No,No,83.3,69.27,sky is clear
+8/25/2021,1470.15,45,77,,No,No,No,79.08,83.36,scattered clouds
+8/26/2021,2234.73,65,137,,No,No,No,79.07,82.83,scattered clouds
+8/27/2021,3792.03,88,182,,No,No,No,82.47,73.64,sky is clear
+8/28/2021,5076.6,112,239,,No,No,No,80.99,77.27,sky is clear
+8/30/2021,1223.24,40,66,,No,No,No,77.21,82.45,light rain
+8/31/2021,2074.39,63,106,,No,No,No,73.89,88.82,light rain
+9/1/2021,1834.95,51,88,,No,No,No,73.07,74.18,broken clouds
+9/2/2021,2462.2,59,107,,No,No,No,70.78,65.82,scattered clouds
+9/3/2021,3883.09,91,177,,Ohio State Football Gameday,No,No,68.7,60,sky is clear
+9/4/2021,3818.01,84,192,,No,No,No,72.95,67.64,overcast clouds
+9/7/2021,2200.22,72,131,,No,No,No,76.57,66.18,sky is clear
+9/8/2021,2338.92,63,118,,No,No,No,73.81,68.91,light rain
+9/9/2021,1936.71,69,114,,No,No,No,68.35,62.82,scattered clouds
+9/10/2021,2859.34,75,133,,No,No,No,67.64,65.64,sky is clear
+9/11/2021,4121.84,91,210,,Ohio State Football Gameday,No,No,70.08,69.18,sky is clear
+9/14/2021,1736.5,60,109,,No,No,No,80.92,70.45,sky is clear
+9/15/2021,2413.55,64,131,,No,No,No,69.65,90.73,light rain
+9/16/2021,2174.47,63,119,,No,No,No,73.03,77.09,broken clouds
+9/17/2021,3941.8,88,176,,No,No,No,78.26,74.82,scattered clouds
+9/18/2021,3595.99,81,168,,Ohio State Football Gameday,No,No,80.04,66.27,sky is clear
+9/21/2021,1879.8,58,93,,No,No,No,69.3,91.91,light rain
+9/22/2021,1804.05,53,90,,No,No,No,60.6,95.42,light rain
+9/23/2021,2315.37,63,121,,No,No,No,55.76,71.36,overcast clouds
+9/24/2021,3643.79,90,190,,No,No,No,64.03,58.09,sky is clear
+9/25/2021,3933.41,89,191,,Ohio State Football Gameday,No,No,61.78,73,light rain
+9/28/2021,2045.45,71,112,,No,No,No,72.37,75.36,sky is clear
+9/29/2021,1958.15,67,120,,No,No,No,66.55,59.91,sky is clear
+9/30/2021,1927.35,60,99,,No,No,No,66.22,61.18,sky is clear
+10/1/2021,3084.2,80,152,,No,No,No,65.44,64.45,sky is clear
+10/2/2021,3566.85,87,186,,Ohio State Football Gameday,No,No,66.88,72.18,sky is clear
+10/5/2021,1644.45,58,95,,No,No,No,70.16,81.92,fog
+10/6/2021,2282,61,117,,No,No,No,72.43,80.82,scattered clouds
+10/7/2021,2368.36,45,122,,No,No,No,70.62,87.82,light rain
+10/8/2021,4369.5,98,206,,No,No,No,70.38,84.36,overcast clouds
+10/9/2021,3796.5,82,177,,Ohio State Football Gameday,No,No,69.52,82.92,fog
+10/12/2021,1438.77,50,87,,No,No,No,73.51,70.91,broken clouds
+10/13/2021,1613,50,82,,No,No,No,66.56,76,sky is clear
+10/14/2021,2519.99,58,118,,No,No,No,75.89,74.91,broken clouds
+10/15/2021,4287.75,94,194,,No,No,No,73.73,81.27,light rain
+10/16/2021,4254.4,98,190,,No,No,No,57.48,72.18,overcast clouds
+10/18/2021,5810.85,130,245,,No,No,No,58.27,60.73,sky is clear
+10/19/2021,2506.15,71,124,,No,No,No,60.61,63.36,sky is clear
+10/20/2021,1894.72,57,107,,No,No,No,61.44,69.91,sky is clear
+10/21/2021,2874.85,64,133,,No,No,No,62.42,86.55,moderate rain
+10/22/2021,4198.09,103,188,,No,No,No,51.98,85.91,overcast clouds
+10/23/2021,4088.8,94,199,,Ohio State Football Gameday,No,No,52.98,79.27,overcast clouds
+10/26/2021,2138.6,62,129,,No,No,No,50.27,71.91,overcast clouds
+10/27/2021,2131.5,65,102,,No,No,No,47.85,82.36,overcast clouds
+10/28/2021,1471.1,44,81,,No,No,No,58.1,76.91,sky is clear
+10/29/2021,4693.55,111,213,,No,No,No,56.35,95.82,moderate rain
+10/30/2021,4099.35,90,191,,Ohio State Football Gameday,No,No,55.27,93.42,overcast clouds
+11/2/2021,2120.87,56,115,,No,No,No,44.13,59.27,overcast clouds
+11/3/2021,2515.48,64,128,,No,No,No,40.88,68,sky is clear
+11/4/2021,2620.8,70,135,,No,No,No,41.63,64.36,sky is clear
+11/5/2021,4203.89,81,213,,No,No,No,41.66,68,sky is clear
+11/6/2021,6020,122,280,,Ohio State Football Gameday,No,No,45.05,64.91,sky is clear
+11/9/2021,1901.39,65,107,,No,No,No,55.24,66.91,sky is clear
+11/10/2021,2289.2,63,121,,No,No,No,53.7,81.55,sky is clear
+11/11/2021,2396.75,71,127,Veterans Day,No,No,No,61.12,63.82,sky is clear
+11/12/2021,4298.74,110,203,,No,No,No,48.6,72.82,sky is clear
+11/13/2021,5029.84,104,288,,Ohio State Football Gameday,No,No,37.39,81.18,overcast clouds
+11/16/2021,2224.03,65,123,,No,No,No,45.42,68.91,sky is clear
+11/17/2021,2491,65,127,,No,No,No,63.06,75.64,overcast clouds
+11/18/2021,2416.4,64,135,,No,No,No,43.48,75.09,sky is clear
+11/19/2021,4138.48,101,222,,No,No,No,34.81,67.18,overcast clouds
+11/20/2021,3653.06,92,179,,Ohio State Football Gameday,No,No,38.53,68.91,sky is clear
+11/22/2021,1533.9,46,73,,No,No,No,35.45,65.18,sky is clear
+11/23/2021,3344.2,95,167,,No,No,No,31.7,67.91,sky is clear
+11/24/2021,3239.78,73,157,,No,No,No,39.01,59.64,sky is clear
+11/26/2021,3700.44,71,197,,No,No,No,31.41,69.73,overcast clouds
+11/27/2021,3775.1,75,183,,Ohio State Football Gameday,No,No,32.37,68.73,overcast clouds
+11/29/2021,1710.25,46,88,,No,No,No,33.48,68.36,sky is clear
+11/30/2021,1844.67,50,83,,No,No,No,43.63,63,sky is clear
+12/1/2021,1876.62,53,88,,No,No,No,37.03,91.27,light rain
+12/2/2021,2142.55,62,106,,No,No,No,53.09,81.18,broken clouds
+12/3/2021,4018.45,104,201,,No,No,No,45.49,68.64,sky is clear
+12/4/2021,4673.99,105,255,,No,No,No,42.44,73.55,sky is clear
+12/6/2021,1741.01,51,98,,No,No,No,43.43,80.91,scattered clouds
+12/7/2021,1892.05,64,105,,No,No,No,23.9,63.64,sky is clear
+12/8/2021,2396.69,60,116,,No,No,No,29.65,83.36,overcast clouds
+12/9/2021,1661.4,58,95,,No,No,No,33.19,79.91,sky is clear
+12/10/2021,5177.44,106,246,,No,No,No,51.18,78.36,overcast clouds
+12/11/2021,4999.71,123,252,,No,No,No,55.21,81.73,moderate rain
+12/13/2021,1838.76,52,96,,No,No,No,40.57,65.18,sky is clear
+12/14/2021,2314.5,71,137,,No,No,No,42.86,68.36,sky is clear
+12/15/2021,2327.26,80,149,,No,No,No,53.25,53.18,overcast clouds
+12/16/2021,2843.9,78,146,,No,No,No,59.58,80.17,overcast clouds
+12/17/2021,3914.68,108,205,,No,No,No,38.31,75.09,sky is clear
+12/18/2021,4317.43,101,205,,No,No,No,45.75,97.5,moderate rain
+12/20/2021,2500.03,70,149,,No,No,No,33.79,77.45,sky is clear
+12/21/2021,3488.91,72,181,,No,No,No,33.72,81.82,sky is clear
+12/22/2021,2858.9,71,152,,No,No,No,31.08,67.36,broken clouds
+12/23/2021,2703.4,64,134,,No,No,No,33.18,63.55,sky is clear
+12/24/2021,1135.83,20,229,Christmas Eve,No,No,No,51.57,55.18,overcast clouds
+12/27/2021,3782.5,82,228,,No,No,No,52.94,92.09,light rain
+12/28/2021,2827.5,76,157,,No,No,No,42.65,83.45,light rain
+12/29/2021,3814.45,88,205,,No,No,No,45.79,95.09,mist
+12/30/2021,3382.41,90,190,,No,No,No,44.48,95.75,mist
+12/31/2021,4100.66,94,178,New Year's Eve,No,No,No,48.54,94.27,broken clouds
+1/4/2022,2091.7,65,118,,No,No,No,31.43,72.45,sky is clear
+1/5/2022,1183.78,36,63,,No,No,No,43.27,67.27,sky is clear
+1/6/2022,849.3,36,54,,No,No,No,18.18,72.82,sky is clear
+1/7/2022,2851.42,75,137,,No,No,No,15.38,77.09,overcast clouds
+1/8/2022,4210.87,100,206,,No,No,No,23.06,67,sky is clear
+1/11/2022,1683.97,53,95,,No,No,No,19.66,67.45,sky is clear
+1/12/2022,1934.1,61,105,,No,No,No,38.85,58.91,sky is clear
+1/13/2022,1911.07,62,102,,No,No,No,38.61,73.73,overcast clouds
+1/14/2022,4179.01,94,187,,No,No,No,32.72,82,overcast clouds
+1/15/2022,4936.69,94,199,,No,No,No,27.12,68.55,overcast clouds
+1/18/2022,1206.5,39,71,,No,No,No,28.66,76,overcast clouds
+1/19/2022,1705.33,53,99,,No,No,No,41.84,75.27,sky is clear
+1/20/2022,1753.5,53,91,,No,No,No,22.42,65.09,overcast clouds
+1/21/2022,3885.13,91,193,,No,No,No,17.56,72.82,sky is clear
+1/22/2022,4113.24,89,197,,No,No,No,18.5,71.27,sky is clear
+1/25/2022,1705.15,53,99,,No,No,No,22.88,78.09,overcast clouds
+1/26/2022,1969.24,61,114,,No,No,No,10.47,73.55,sky is clear
+1/27/2022,2088.14,56,110,,No,No,No,17.46,70.73,overcast clouds
+1/28/2022,3818.23,86,151,,No,No,No,26.36,85.73,overcast clouds
+1/29/2022,5454.77,112,278,,No,No,No,11.52,76.09,sky is clear
+2/1/2022,2601.54,67,145,,No,No,No,36.76,64.45,sky is clear
+2/2/2022,1198.95,39,60,,No,No,No,39.71,81.18,light rain
+2/5/2022,4226.55,91,208,,No,No,No,17.34,83.55,sky is clear
+2/8/2022,2139.99,62,121,,No,No,No,23.01,74.73,sky is clear
+2/9/2022,1681.5,51,103,,No,No,No,42.02,63.36,sky is clear
+2/10/2022,2419.98,64,127,,No,No,No,37.11,69.64,overcast clouds
+2/11/2022,4674.54,97,201,,No,No,No,43.17,60.45,overcast clouds
+2/12/2022,6516.11,120,298,,No,No,No,31.78,78.18,overcast clouds
+2/14/2022,1849.87,52,94,Valentine's Day,No,No,No,18.31,73.91,overcast clouds
+2/15/2022,1567.45,52,90,,No,No,No,28.71,64.45,sky is clear
+2/16/2022,1661.61,48,102,,No,No,No,51.08,52.36,sky is clear
+2/17/2022,1506.3,42,80,,No,No,No,52,90.64,moderate rain
+2/18/2022,4432.57,100,215,,No,No,No,25.82,74,light snow
+2/19/2022,5079.34,102,245,,No,No,No,27.36,58.27,scattered clouds
+2/22/2022,2632.15,60,124,,No,No,No,53.59,96,light rain
+2/23/2022,1729.65,48,89,,No,No,No,30.63,80.27,overcast clouds
+2/24/2022,1273.51,43,85,,No,No,No,32.06,76.55,overcast clouds
+2/25/2022,3724.72,88,166,,No,No,No,31.39,81,overcast clouds
+2/26/2022,5992.04,118,302,,No,No,No,29.55,75.82,overcast clouds
+3/1/2022,1253.6,41,76,,No,No,No,49.25,54.64,overcast clouds
+3/2/2022,1905.87,50,85,,No,No,No,46.84,65.91,sky is clear
+3/3/2022,2293.43,65,116,,No,No,Arnold Classic,35.59,62.64,overcast clouds
+3/4/2022,4569.62,87,211,,No,No,Arnold Classic,35.58,54.27,sky is clear
+3/5/2022,3697.59,86,198,,No,No,Arnold Classic,57.38,41.64,sky is clear
+3/8/2022,2390.08,64,131,,No,No,No,37.25,65.45,overcast clouds
+3/9/2022,2077.8,66,120,,No,No,No,39.43,74.91,light rain
+3/10/2022,2307.82,67,131,,No,No,No,41.72,69.18,sky is clear
+3/11/2022,2482.97,64,129,,No,No,No,44.84,69.18,broken clouds
+3/12/2022,4991,108,222,,No,No,No,22.06,63.18,broken clouds
+3/15/2022,1722.05,50,89,,No,No,No,53.21,56.36,overcast clouds
+3/16/2022,2268.5,55,99,,No,No,No,57.7,54.55,sky is clear
+3/17/2022,2209.78,48,93,,No,No,No,61.57,59.55,sky is clear
+3/18/2022,3542.2,95,187,,No,No,No,61.24,64.09,overcast clouds
+3/19/2022,4647.03,103,220,,No,No,No,51.74,84.91,light rain
+3/22/2022,1846.32,47,100,,No,No,No,54.65,61.91,light rain
+3/23/2022,2332.95,58,107,,No,No,No,61.63,81.82,light rain
+3/24/2022,2318.55,61,109,,No,No,No,50,66.09,overcast clouds
+3/25/2022,3533.58,89,173,,No,No,No,43.28,77.27,overcast clouds
+3/26/2022,4772.42,98,213,,No,No,No,36,75,overcast clouds
+3/29/2022,2115.3,56,96,,No,No,No,34.82,45.55,sky is clear
+3/30/2022,1745.3,49,91,,No,No,No,61.73,43.55,sky is clear
+3/31/2022,2431.5,59,120,,No,No,No,53.58,81.42,overcast clouds
+4/1/2022,3341.15,89,173,,No,No,No,38.86,75.36,overcast clouds
+4/2/2022,4644.95,102,230,,No,No,No,41.4,64.36,sky is clear
+4/5/2022,1976.13,60,112,,No,No,No,48.22,87.09,sky is clear
+4/6/2022,1981.99,52,101,,No,No,No,53.89,90,overcast clouds
+4/7/2022,2066.59,50,102,,No,No,No,50.25,78.55,broken clouds
+4/8/2022,3804.61,94,176,,No,No,No,44.28,73.36,light rain
+4/9/2022,5421.65,117,291,,No,No,No,38.88,87.43,light rain
+4/12/2022,1603.99,51,88,,No,No,No,60.64,78.18,overcast clouds
+4/13/2022,1766.11,57,103,,No,No,No,67.01,76,sky is clear
+4/14/2022,2660.21,67,139,,No,No,No,53.02,57.91,sky is clear
+4/15/2022,3924.39,90,190,,No,No,No,61.02,35.55,sky is clear
+4/16/2022,4349.52,92,227,,No,No,No,52.79,82.64,overcast clouds
+4/19/2022,2022.81,49,98,,No,No,No,39.85,75.82,overcast clouds
+4/20/2022,1973.91,57,107,,No,No,No,48.93,58.82,sky is clear
+4/21/2022,2294.95,65,143,,No,No,No,57.64,85.27,overcast clouds
+4/22/2022,3081.9,81,142,,No,No,No,61.98,67.55,sky is clear
+4/23/2022,3371.05,73,146,,No,No,No,72.87,52.27,sky is clear
+4/26/2022,2431.68,67,125,,No,No,No,47.24,67.73,overcast clouds
+4/27/2022,2183.25,72,116,,No,No,No,46.56,57.73,sky is clear
+4/28/2022,1897.22,48,80,,No,No,No,46.8,53.18,overcast clouds
+4/29/2022,4317.71,100,218,,No,No,No,54.99,41.27,overcast clouds
+4/30/2022,5793.73,112,260,,No,No,No,55.78,69.45,light rain
+5/3/2022,2565.98,65,130,,No,No,No,61.54,86,light rain
+5/4/2022,2436.29,72,121,,No,No,No,55.34,87.09,overcast clouds
+5/5/2022,9107.84,169,353,Cinco de Mayo,No,No,No,58.56,80.82,overcast clouds
+5/6/2022,3841.65,92,189,,No,No,No,60.37,94.09,light rain
+5/7/2022,5311.75,110,261,,No,No,No,55.86,82.82,overcast clouds
+5/10/2022,1887.1,60,118,,No,No,No,71.59,45.09,sky is clear
+5/11/2022,1617.75,42,78,,No,No,No,73.61,41.91,sky is clear
+5/12/2022,1564.1,45,75,,No,No,No,73.77,47.82,sky is clear
+5/13/2022,3358.35,73,152,,No,No,No,75.35,62.18,sky is clear
+5/14/2022,4059.78,96,199,,No,No,No,75.7,66.09,scattered clouds
+5/17/2022,2008.73,51,95,,No,No,No,69.08,52,sky is clear
+5/18/2022,1498.96,47,84,,No,No,No,64.43,67.18,light rain
+5/19/2022,2142.26,59,107,,No,No,No,69.58,80.45,mist
+5/20/2022,3451.68,76,164,,No,No,No,74.83,78,sky is clear
+5/21/2022,4755.75,88,231,,No,No,No,78,70.58,broken clouds
+5/24/2022,2042.34,59,106,,No,No,No,65.34,61.91,sky is clear
+5/25/2022,1337.05,44,75,,No,No,No,71.6,75.45,broken clouds
+5/26/2022,2757.96,63,131,,No,No,No,69.47,85.91,light rain
+5/27/2022,3244.35,75,162,,No,No,No,64.2,91.45,heavy intensity rain
+5/28/2022,1047,33,49,,No,No,No,65.26,84,light rain
+5/31/2022,1740.13,41,75,,No,No,No,82.24,60.09,scattered clouds
+6/1/2022,1849.52,46,87,,No,No,No,82.59,62.73,sky is clear
+6/2/2022,2090.57,57,101,,No,No,No,69.87,83.18,overcast clouds
+6/3/2022,2778.32,77,145,,No,No,No,71.58,51.64,sky is clear
+6/4/2022,2926.01,70,151,,No,No,No,71.48,48,sky is clear
+6/7/2022,1977.01,50,100,,No,No,No,72.53,82.55,overcast clouds
+6/8/2022,2402.86,66,126,,No,No,No,73.6,68.09,sky is clear
+6/9/2022,2381.37,63,131,,No,No,No,65.72,76.18,light rain
+6/10/2022,2742.13,68,132,,No,No,No,70.46,57.36,sky is clear
+6/11/2022,2504.89,65,116,,No,No,No,70.38,67.73,sky is clear
+6/15/2022,2787.58,69,138,,No,No,No,87.95,67.82,sky is clear
+6/16/2022,1811.43,56,100,,No,No,No,87.46,64.91,sky is clear
+6/17/2022,3578,87,185,,No,Pride Festival,No,83.96,56.27,sky is clear
+6/18/2022,2845.18,63,139,,No,Pride Festival,No,68.19,44.91,sky is clear
+6/21/2022,2011.92,51,105,,No,No,No,81.1,57.36,sky is clear
+6/22/2022,2498.27,70,122,,No,No,No,86.34,60.27,sky is clear
+6/23/2022,1952.9,54,95,,No,No,No,78.4,52.82,sky is clear
+6/24/2022,3010.75,74,137,,No,No,No,77.01,54.64,sky is clear
+6/25/2022,2303.55,66,125,,No,No,No,79.46,54.18,sky is clear
+6/28/2022,1946.73,61,108,,No,No,No,71.66,49.45,sky is clear
+6/29/2022,1902.75,51,103,,No,No,No,75.46,49.09,sky is clear
+6/30/2022,2817.43,64,153,,No,No,No,79.73,48.73,sky is clear
+7/1/2022,4760.1,93,209,,No,No,No,85.36,62,scattered clouds
+7/2/2022,2879.99,72,146,,No,No,No,79.4,64.64,sky is clear
+7/5/2022,2385.72,60,121,,No,No,No,72.57,88.46,light rain
+7/6/2022,2339.1,56,112,,No,No,No,74.32,90.69,light rain
+7/7/2022,2025.2,49,87,,No,No,No,79.33,66.36,sky is clear
+7/8/2022,4147.85,80,194,,No,No,No,71.77,88.09,light rain
+7/9/2022,4685.56,94,223,,No,No,No,77.28,73.82,broken clouds
+7/12/2022,2430.3,64,121,,No,No,No,81.32,66.45,scattered clouds
+7/13/2022,2260.6,56,102,,No,No,No,77.47,63.73,sky is clear
+7/14/2022,2435.59,60,128,,No,No,No,76.26,70.82,sky is clear
+7/15/2022,3415.01,71,145,,No,No,No,76.72,55.73,sky is clear
+7/16/2022,5048.65,90,214,,No,No,No,70.25,93.08,moderate rain
+7/19/2022,2705.78,67,137,,No,No,No,79.89,77.09,scattered clouds
+7/20/2022,2026.4,54,95,,No,No,No,83.2,74.82,scattered clouds
+7/21/2022,2555.39,61,124,,No,No,No,81.46,69.27,scattered clouds
+7/22/2022,3216.15,69,135,,No,No,No,82.74,67.91,sky is clear
+7/23/2022,4128.15,82,198,,No,No,No,76.19,80.64,sky is clear
+7/26/2022,1699.34,47,87,,No,No,No,72.55,77.91,overcast clouds
+7/27/2022,2092.05,54,103,,No,No,No,75.22,89.45,light rain
+7/28/2022,2652.71,62,121,,No,No,No,79.61,74,light rain
+7/29/2022,3233.72,67,137,,No,No,No,75.76,70.18,overcast clouds
+7/30/2022,2787.7,62,128,,No,No,No,74.32,62.73,sky is clear
+8/2/2022,2192.95,53,99,,No,No,No,80.74,69,scattered clouds
+8/3/2022,2150.95,54,101,,No,No,No,82.54,72,sky is clear
+8/4/2022,2264.66,57,127,,No,No,No,81.6,75.91,sky is clear
+8/5/2022,4140.64,76,175,,No,No,No,73.67,90.62,light rain
+8/6/2022,2859.5,61,131,,No,No,No,77.08,88.27,light rain
+8/9/2022,2728.21,64,128,,No,No,No,80.32,81.17,light rain
+8/10/2022,2111.74,55,109,,No,No,No,74.44,85.91,overcast clouds
+8/11/2022,1947.38,43,83,,No,No,No,75.36,72.55,light rain
+8/12/2022,3236.55,81,150,,No,No,No,71.21,61.45,sky is clear
+8/13/2022,4109.85,80,188,,No,No,No,70.8,62.64,sky is clear
+8/16/2022,2157.05,46,93,,No,No,No,70.07,77.45,overcast clouds
+8/17/2022,2376.2,56,107,,No,No,No,73.76,67.36,sky is clear
+8/18/2022,2407.3,52,114,,No,No,No,73.7,68.27,sky is clear
+8/19/2022,3179.1,76,158,,No,No,No,76.9,63.91,sky is clear
+8/20/2022,4128.3,72,194,,No,No,No,77.53,74.55,scattered clouds
+8/23/2022,2716.36,63,120,,No,No,No,74.72,72.18,sky is clear
+8/24/2022,2571.5,64,115,,No,No,No,73.66,68.09,sky is clear
+8/25/2022,1888.1,46,79,,No,No,No,75.89,67.64,sky is clear
+8/26/2022,2420.7,62,120,,No,No,No,77.11,74.27,scattered clouds
+8/27/2022,3921.8,74,154,,No,No,No,75.21,73.91,scattered clouds
+8/30/2022,1704.55,45,86,,No,No,No,74.54,78.45,moderate rain
+8/31/2022,1691.5,43,79,,No,No,No,73.03,62.55,sky is clear
+9/1/2022,2475.44,53,114,,No,No,No,74.8,70.91,sky is clear
+9/2/2022,3928.91,66,167,,No,No,No,77.42,70.82,sky is clear
+9/3/2022,2469.08,64,127,,Ohio State Football Gameday,No,No,71.19,92.64,light rain
+9/6/2022,2049.25,41,77,,No,No,No,72.73,82.18,broken clouds
+9/7/2022,1973.55,59,108,,No,No,No,72.39,66.18,sky is clear
+9/8/2022,1390.74,37,73,,No,No,No,71.5,72,scattered clouds
+9/9/2022,3126.22,73,149,,No,No,No,74.98,72.36,sky is clear
+9/10/2022,2596.25,53,113,,Ohio State Football Gameday,No,No,72.56,76.45,sky is clear
+9/13/2022,2161.4,51,94,,No,No,No,62.76,71.73,overcast clouds
+9/14/2022,2054.52,57,106,,No,No,No,69.11,76.64,broken clouds
+9/15/2022,1891.9,45,104,,No,No,No,70.47,75.09,sky is clear
+9/16/2022,3149.19,63,132,,No,No,No,72.23,74.73,sky is clear
+9/17/2022,3078.6,55,128,,Ohio State Football Gameday,No,No,73.52,73.45,sky is clear
+9/18/2022,1327,25,70,,No,No,No,74.9,67.09,scattered clouds
+9/20/2022,1994.5,51,90,,No,No,No,73.75,67.55,sky is clear
+9/21/2022,2415.25,49,106,,No,No,No,78.22,74,sky is clear
+9/22/2022,1406.54,46,70,,No,No,No,64.51,57.73,broken clouds
+9/23/2022,3530.95,79,153,,No,No,No,57.63,60.64,sky is clear
+9/24/2022,3004.55,62,145,,Ohio State Football Gameday,No,No,63.15,67.82,overcast clouds
+9/27/2022,2516.63,55,127,,No,No,No,55.6,67.73,overcast clouds
+9/28/2022,2019.75,56,109,,No,No,No,54.37,75.73,overcast clouds
+9/29/2022,1895.66,52,97,,No,No,No,56.43,74.27,overcast clouds
+9/30/2022,3606.4,79,167,,No,No,No,56.53,67.45,sky is clear
+10/1/2022,3244.55,62,133,,Ohio State Football Gameday,No,No,58.39,63.09,sky is clear
+10/4/2022,2802.65,63,129,,No,No,No,55.62,68.36,sky is clear
+10/5/2022,1682.51,46,82,,No,No,No,61.52,54.45,sky is clear
+10/6/2022,1227.15,35,66,,No,No,No,61.08,61.55,sky is clear
+10/7/2022,2987.3,67,147,,No,No,No,54.97,68.55,overcast clouds
+10/8/2022,4175.75,78,175,,Ohio State Football Gameday,No,No,47.62,64.91,sky is clear
+10/11/2022,2319.05,43,95,,No,No,No,62.22,55,sky is clear
+10/12/2022,1795.4,45,85,,No,No,No,65.24,67.18,overcast clouds
+10/13/2022,1686.9,42,88,,No,No,No,55.36,59.09,scattered clouds
+10/14/2022,3295.5,79,157,,No,No,No,54.06,52.55,sky is clear
+10/15/2022,3705.27,74,156,,No,No,No,54.36,50.27,sky is clear
+10/18/2022,1747.31,48,87,,No,No,No,41.92,70.18,light rain
+10/19/2022,2480.45,56,105,,No,No,No,42.32,82.82,light rain
+10/20/2022,1518.05,34,75,,No,No,No,44.09,45.27,sky is clear
+10/21/2022,3716.3,87,171,,No,No,No,56.51,41.09,sky is clear
+10/22/2022,3656.7,64,153,,Ohio State Football Gameday,No,No,62.78,51.55,sky is clear
+10/25/2022,1592.95,44,80,Halloween,No,No,No,66.95,55.45,sky is clear
+10/26/2022,2117.5,49,98,,No,No,No,53.57,84.09,overcast clouds
+10/27/2022,2126.98,56,98,,No,No,No,50.7,59.64,sky is clear
+10/28/2022,3178.34,73,152,,No,No,No,51.73,62,sky is clear
+10/29/2022,3017.56,66,143,,Ohio State Football Gameday,No,No,54.92,60.91,sky is clear
+11/1/2022,1886.7,49,89,,No,No,No,60.57,82.73,overcast clouds
+11/2/2022,2399.65,51,102,,No,No,No,52.17,88.36,fog
+11/3/2022,1583.94,46,82,,No,No,No,55.05,80.27,sky is clear
+11/4/2022,5552.17,87,201,,No,No,No,65.58,66.64,sky is clear
+11/5/2022,3738.86,63,171,,Ohio State Football Gameday,No,No,69.73,61.91,sky is clear
+11/8/2022,1452.54,44,71,,No,No,No,50.89,53.55,sky is clear
+11/9/2022,1865.45,42,88,,No,No,No,57.49,39.73,sky is clear
+11/10/2022,2104.04,50,90,,No,No,No,60.62,48.27,sky is clear
+11/11/2022,3253.6,79,166,Veterans Day,No,No,No,59.1,96.64,heavy intensity rain
+11/12/2022,3991.8,71,169,,Ohio State Football Gameday,No,No,36.99,85.54,overcast clouds
+11/15/2022,2024.85,53,99,,No,No,No,36.04,82.45,light rain
+11/16/2022,2329.45,55,103,,No,No,No,36.45,75.82,overcast clouds
+11/17/2022,2479.65,57,124,,No,No,No,32.42,75,overcast clouds
+11/18/2022,3735.55,85,182,,No,No,No,31.35,65.91,overcast clouds
+11/19/2022,3738.25,81,174,,Ohio State Football Gameday,No,No,28.12,60.36,sky is clear
+11/22/2022,2712.95,47,112,,No,No,No,42.42,44.36,sky is clear
+11/23/2022,3529.04,70,158,,No,No,No,43.7,52.45,sky is clear
+11/25/2022,4804.9,76,206,,No,No,No,49.73,75.18,sky is clear
+11/26/2022,3099.91,59,123,,Ohio State Football Gameday,No,No,42.05,73.27,sky is clear
+11/29/2022,1822.6,47,89,,No,No,No,50.58,77.27,sky is clear
+11/30/2022,1901.2,53,98,,No,No,No,39.07,71.91,scattered clouds
+12/1/2022,2019.3,54,99,,No,No,No,28.74,65.91,sky is clear
+12/2/2022,4269.55,81,195,,No,No,No,39.92,58.73,overcast clouds
+12/3/2022,4612.1,92,234,,No,No,No,47.94,74.09,sky is clear
+12/6/2022,2183.96,54,115,,No,No,No,47.76,96.73,mist
+12/8/2022,2084.25,49,106,,No,No,No,44.5,90.45,light rain
+12/9/2022,3630.85,93,180,,No,No,No,42.97,79.73,sky is clear
+12/10/2022,4352.22,92,197,,No,No,No,40.85,86.36,overcast clouds
+12/13/2022,1830.25,47,89,,No,No,No,37.34,71.36,overcast clouds
+12/14/2022,2183,46,104,,No,No,No,39.06,67.42,light rain
+12/15/2022,2240.3,60,119,,No,No,No,49,88.42,light rain
+12/16/2022,4344.4,91,189,,No,No,No,37.7,71.09,overcast clouds
+12/17/2022,3157.45,75,148,,No,No,No,32.56,69,overcast clouds
+12/19/2022,1282.55,38,59,,No,No,No,23.58,77.64,sky is clear
+12/20/2022,2624.5,61,124,,No,No,No,28.63,76.18,overcast clouds
+12/21/2022,3057.65,63,141,,No,No,No,31.71,75,sky is clear
+12/22/2022,2836.05,65,133,,No,No,No,41.62,77.75,overcast clouds
+12/26/2022,1461.6,30,79,,No,No,No,16.89,77,overcast clouds
+12/27/2022,3978.55,68,189,,No,No,No,27.8,89.45,mist
+12/28/2022,3644.1,72,158,,No,No,No,34.18,73.27,sky is clear
+12/29/2022,3864.7,74,174,,No,No,No,47.04,68.45,overcast clouds
+12/30/2022,4663,87,212,,No,No,No,58.89,57.64,light rain
+12/31/2022,3517.3,61,139,New Year's Eve,No,No,No,53.23,96,light rain
+1/3/2023,1695.9,46,73,,No,No,No,60.24,95.18,light rain
+1/4/2023,1487.25,36,76,,No,No,No,57.83,91.45,heavy intensity rain
+1/5/2023,1831.02,40,91,,No,No,No,40.49,76.27,sky is clear
+1/6/2023,4196.75,79,197,,No,No,No,36.32,80.91,overcast clouds
+1/7/2023,5116.35,99,259,,No,No,No,33.82,77.64,overcast clouds
+1/9/2023,788.45,26,37,,No,No,No,31.64,82.73,overcast clouds
+1/10/2023,1173.05,31,67,,No,No,No,35.39,82.73,sky is clear
+1/11/2023,1411.8,41,71,,No,No,No,39.64,86.09,overcast clouds
+1/12/2023,1730.45,46,94,,No,No,No,49.55,96.58,moderate rain
+1/13/2023,3394.84,75,159,,No,No,No,32.32,84.45,overcast clouds
+1/14/2023,5167.65,94,237,,No,No,No,26.96,68.91,overcast clouds
+1/16/2023,1608.1,44,94,Martin Luther King Jr. Day,No,No,No,34.31,67.27,sky is clear
+1/17/2023,1502.7,42,77,,No,No,No,52.58,82.45,overcast clouds
+1/18/2023,1919.55,44,97,,No,No,No,39.85,82.09,overcast clouds
+1/19/2023,1160.17,36,61,,No,No,No,54.58,77.45,light rain
+1/20/2023,3719.1,74,181,,No,No,No,35.7,75.45,overcast clouds
+1/21/2023,4589,78,202,,No,No,No,32.87,80.36,overcast clouds
+2/1/2023,1096.75,18,29,,No,No,No,21.81,67.27,sky is clear
+2/2/2023,1034.6,27,48,,No,No,No,29.19,66.45,sky is clear
+2/3/2023,4920.18,126,241,,No,No,No,20.81,55.45,broken clouds
+2/4/2023,7545.58,151,343,,No,No,No,25.97,54.18,sky is clear
+2/6/2023,1526.35,38,64,,No,No,No,34.25,76.73,overcast clouds
+2/7/2023,3060.6,65,123,,No,No,No,48.34,63.09,light rain
+2/8/2023,3556.47,73,149,,No,No,No,39.44,76.36,sky is clear
+2/9/2023,3016.78,65,120,,No,No,No,61.81,70.5,light rain
+2/10/2023,6185.94,119,282,,No,No,No,41,77.27,overcast clouds
+2/11/2023,8464.65,153,384,,No,No,No,32.12,67,sky is clear
+2/13/2023,2609.73,53,107,,No,No,No,44.24,46.27,sky is clear
+2/14/2023,5818.2,113,231,Valentine's Day,No,No,No,43.6,58.91,sky is clear
+2/15/2023,2705.83,70,130,,No,No,No,63.64,54.36,scattered clouds
+2/16/2023,2685.4,58,113,,No,No,No,51.92,88.64,moderate rain
+2/17/2023,4528.13,98,215,,No,No,No,29.39,78.09,overcast clouds
+2/18/2023,7940.2,153,358,,No,No,No,33.02,64.73,sky is clear
+2/20/2023,3255.61,71,167,,No,No,No,49.27,61.91,overcast clouds
+2/21/2023,2086.6,49,91,,No,No,No,47.97,50,sky is clear
+2/22/2023,3752.59,82,166,,No,No,No,45.28,85.91,light rain
+2/23/2023,2503.29,66,114,,No,No,No,63.69,72.55,sky is clear
+2/24/2023,4937.84,109,226,,No,No,No,35.6,59.36,scattered clouds
+2/25/2023,8251.21,152,351,,No,No,No,39.09,58.45,overcast clouds
+2/27/2023,2352.98,53,103,,No,No,No,48.29,88.82,light rain
+2/28/2023,2723.66,54,97,,No,No,No,44.13,74.64,overcast clouds
+3/1/2023,2124.61,58,100,,No,No,No,56.69,61,sky is clear
+3/2/2023,3610.37,68,134,,No,No,Arnold Classic,47.44,67.64,sky is clear
+3/3/2023,3570.77,76,151,,No,No,Arnold Classic,40.32,90.18,heavy intensity rain
+3/4/2023,7774.1,141,336,,No,No,Arnold Classic,44.08,71.27,broken clouds
+3/6/2023,1626.17,48,76,,No,No,No,54.68,53.64,sky is clear
+3/7/2023,3063.77,70,144,,No,No,No,42.4,60.73,sky is clear
+3/8/2023,2895.98,68,120,,No,No,No,38.87,55.73,sky is clear
+3/9/2023,5234.32,87,172,,No,No,No,39.76,67.09,sky is clear
+3/10/2023,6217.64,117,250,,No,No,No,39.97,89.73,light rain
+3/11/2023,8686.63,151,386,,No,No,No,35.39,66.36,overcast clouds
+3/13/2023,2567.46,66,121,,No,No,No,34.42,73.55,overcast clouds
+3/14/2023,3496.8,75,150,,No,No,No,28.39,68.18,overcast clouds
+3/15/2023,2647.27,64,127,,No,No,No,35.8,61.64,sky is clear
+3/16/2023,2934.6,63,123,,No,No,No,47.84,43.45,sky is clear
+3/17/2023,4790.23,102,216,,No,No,No,43.14,90.62,light rain
+3/18/2023,6420.37,123,258,,No,No,No,30.73,65.36,overcast clouds
+3/20/2023,2340.23,59,104,,No,No,No,37.09,51.18,sky is clear
+3/21/2023,3506.75,77,153,,No,No,No,45.86,42.18,sky is clear
+3/22/2023,2740.86,63,142,,No,No,No,47.79,83.18,overcast clouds
+3/23/2023,4719.4,73,152,,No,No,No,63.25,82.64,light rain
+3/24/2023,5253.4,88,214,,No,No,No,40.33,85.27,light rain
+3/25/2023,6577.41,128,288,,No,No,No,57.86,75.82,light rain
+3/27/2023,2292.5,59,104,,No,No,No,51.4,75.55,overcast clouds
+3/28/2023,2630.74,59,129,,No,No,No,44.62,63.45,sky is clear
+3/29/2023,2288.07,55,101,,No,No,No,46.16,62.27,broken clouds
+3/30/2023,2913.92,61,117,,No,No,No,42.87,47.82,sky is clear
+3/31/2023,4476,97,196,,No,No,No,49.8,88.55,moderate rain
+4/1/2023,6870.37,131,285,,No,No,No,53.56,70.36,light rain
+4/3/2023,2860.23,57,109,,No,No,No,53.57,66.09,light rain
+4/4/2023,2521.45,59,113,,No,No,No,61.22,77.27,overcast clouds
+4/5/2023,2500.2,59,130,,No,No,No,73.37,68.18,sky is clear
+4/6/2023,2762.14,54,95,,No,No,No,47.41,64.73,overcast clouds
+4/7/2023,6177.85,115,225,,No,No,No,48,52.18,sky is clear
+4/8/2023,6602.69,118,276,,No,No,No,45.94,44.91,sky is clear
+4/10/2023,1572.9,46,81,,No,No,No,57.15,42.82,sky is clear
+4/11/2023,2983.37,63,117,,No,No,No,61.9,43.18,sky is clear
+4/12/2023,3287.91,67,143,,No,No,No,68.28,43.55,sky is clear
+4/13/2023,3181.27,69,137,,No,No,No,68.08,44.09,sky is clear
+4/14/2023,5934.08,116,258,,No,No,No,65.84,54.55,overcast clouds
+4/15/2023,7099.88,134,305,,No,No,No,70.28,67,sky is clear
+4/17/2023,2138.25,42,78,,No,No,No,43,72.91,light rain
+4/18/2023,2917.75,63,116,,No,No,No,47.58,57.27,sky is clear
+4/19/2023,3365.71,67,134,,No,No,No,57.15,51,sky is clear
+4/20/2023,3272.9,65,132,,No,No,No,72.9,43,sky is clear
+4/21/2023,8570.44,143,319,,No,No,No,69.54,53.27,overcast clouds
+4/22/2023,7816.37,138,334,,No,No,No,53.58,70.82,light rain
+4/24/2023,1872.1,48,89,,No,No,No,44.08,58.91,overcast clouds
+4/25/2023,3051.2,67,140,,No,No,No,48.28,54,scattered clouds
+4/26/2023,2680.47,67,130,,No,No,No,51.43,64.27,scattered clouds
+4/27/2023,5199.6,78,135,,No,No,No,55.05,48.55,sky is clear
+4/28/2023,6046.98,117,258,,No,No,No,59.82,90.5,light rain
+4/29/2023,8406.16,147,349,,No,No,No,59.06,74.18,overcast clouds
+5/1/2023,2540.05,59,101,,No,No,No,43.22,85.91,light rain
+5/2/2023,3637.98,79,144,,No,No,No,43.72,85.55,light rain
+5/3/2023,3454.37,77,168,,No,No,No,45.7,80.55,overcast clouds
+5/4/2023,3783.05,83,166,,No,No,No,54.01,69,overcast clouds
+5/5/2023,18604.68,309,719,Cinco de Mayo,No,No,No,61,57.82,sky is clear
+5/6/2023,9460.09,165,398,,No,No,No,66.48,48.73,sky is clear
+5/8/2023,3456.89,59,115,,No,No,No,69.56,76.36,scattered clouds
+5/9/2023,3396.24,66,146,,No,No,No,65.4,61.82,sky is clear
+5/10/2023,5361.77,97,182,,No,No,No,64.53,47,sky is clear
+5/11/2023,4538.3,85,168,,No,No,No,69.33,50.82,sky is clear
+5/12/2023,6923.64,138,288,,No,No,No,70.59,70.18,overcast clouds
+5/13/2023,10363.41,168,476,,No,No,No,68.84,87.18,overcast clouds
+5/15/2023,3230.3,64,112,,No,No,No,64.54,48.55,sky is clear
+5/16/2023,3248.1,75,145,,No,No,No,62.39,79.45,light rain
+5/17/2023,3499.35,79,159,,No,No,No,61.32,56,sky is clear
+5/18/2023,3789.63,67,142,,No,No,No,61.27,49.82,sky is clear
+5/19/2023,5968.57,118,244,,No,No,No,72.41,62.18,broken clouds
+5/20/2023,9764.15,165,398,,No,No,No,63.78,74.91,scattered clouds
+5/22/2023,3391.2,70,127,,No,No,No,70.17,56.18,sky is clear
+5/23/2023,3212.44,67,124,,No,No,No,72.46,55.27,scattered clouds
+5/24/2023,3874.9,80,209,,No,No,No,71.9,56,scattered clouds
+5/25/2023,4750.85,93,189,,No,No,No,60.35,45.91,sky is clear
+5/26/2023,7518.77,127,275,,No,No,No,66.13,43.91,sky is clear
+5/27/2023,6481.52,130,291,,No,No,No,68.63,42.18,sky is clear
+5/30/2023,3334.14,59,122,,No,No,No,77.35,62.64,scattered clouds
+5/31/2023,4784.7,87,194,,No,No,No,77.26,59.45,sky is clear
+6/1/2023,4409.79,87,223,,No,No,No,78.7,43,sky is clear
+6/2/2023,6758.51,125,272,,No,No,No,82.1,43.36,sky is clear
+6/3/2023,7794.39,108,233,,No,No,No,83.06,45.36,sky is clear
+6/5/2023,5331.72,73,145,,No,No,No,69.13,43,sky is clear
+6/6/2023,3079.35,67,129,,No,No,No,72.3,51.27,sky is clear
+6/7/2023,4809.18,87,213,,No,No,No,67.12,45.09,sky is clear
+6/8/2023,5434.4,114,230,,No,No,No,65.96,44.55,sky is clear
+6/9/2023,6919.69,118,300,,No,No,No,69.36,50.27,sky is clear
+6/10/2023,7663.47,140,309,,No,No,No,73.98,44.55,sky is clear
+6/12/2023,4005.05,70,141,,No,No,No,62.17,79.73,overcast clouds
+6/13/2023,3569.36,70,162,,No,No,No,59.48,76.18,overcast clouds
+6/14/2023,4598.55,102,213,,No,No,No,66.32,73,broken clouds
+6/15/2023,5081.97,91,208,,No,No,No,70.26,70,sky is clear
+6/16/2023,8736.81,153,334,,No,Pride Festival,No,64.32,80.82,overcast clouds
+6/17/2023,8066.06,157,331,,No,Pride Festival,No,69.67,66.45,haze
+6/19/2023,3615.22,84,170,,No,No,No,70.86,71.64,sky is clear
+6/20/2023,3499.23,67,124,,No,No,No,68.74,87.73,light rain
+6/21/2023,4365.43,94,197,,No,No,No,76.02,64.27,sky is clear
+6/22/2023,4838.7,115,221,,No,No,No,67.01,74.55,overcast clouds
+6/23/2023,7125.51,139,314,,No,No,No,68.94,89.18,overcast clouds
+6/24/2023,8150.73,124,325,,No,No,No,75.96,74.45,overcast clouds
+6/26/2023,3141.45,60,129,,No,No,No,75.04,69.27,overcast clouds
+6/27/2023,3609.72,67,135,,No,No,No,67.36,82.45,haze
+6/28/2023,3617.01,78,164,,No,No,No,72.06,73.45,haze
+6/29/2023,6002.45,88,203,,No,No,No,77.85,65.82,haze
+6/30/2023,6964.15,120,264,,No,No,No,78.83,72,overcast clouds
+7/1/2023,7265.32,135,319,,No,No,No,77.05,80.27,light rain
+7/3/2023,5019.34,103,201,,No,No,No,73.17,91,light rain
+7/5/2023,3144.85,68,143,,No,No,No,83.13,65.55,sky is clear
+7/6/2023,3733.71,82,160,,No,No,No,77.08,82.5,sky is clear
+7/7/2023,7318.56,121,295,,No,No,No,78.32,73.18,scattered clouds
+7/8/2023,11525.66,143,352,,No,No,No,74.83,79.27,sky is clear
+7/10/2023,4677.5,102,200,,No,No,No,76.25,61.82,sky is clear
+7/11/2023,4957.81,88,225,,No,No,No,78.75,63.64,sky is clear
+7/12/2023,4004.77,79,153,,No,No,No,80.74,62,sky is clear
+7/13/2023,4864.79,93,210,,No,No,No,82.6,66.73,scattered clouds
+7/14/2023,8831.12,140,289,,No,No,No,80.33,69.64,scattered clouds
+7/15/2023,7163.52,140,311,,No,No,No,74.35,86.09,sky is clear
+7/17/2023,3481.1,67,123,,No,No,No,78.38,72.36,haze
+7/18/2023,4358.58,85,181,,No,No,No,74.19,79.73,overcast clouds
+7/19/2023,3982.69,86,198,,No,No,No,78.02,75.91,light rain
+7/20/2023,3271.62,75,148,,No,No,No,80.6,76,scattered clouds
+7/21/2023,7662.83,143,321,,No,No,No,73.25,76.27,overcast clouds
+7/22/2023,7796.98,143,315,,No,No,No,74.91,64.36,sky is clear
+7/24/2023,3445.45,74,162,,No,No,No,76.51,75.64,sky is clear
+7/25/2023,5165.18,100,223,,No,No,No,75.67,80.64,overcast clouds
+7/26/2023,4284.76,81,168,,No,No,No,82.26,72.09,sky is clear
+7/27/2023,5030.6,102,202,,No,No,No,81.53,80.73,light rain
+7/28/2023,7723.78,142,316,,No,No,No,75.46,85.55,broken clouds
+7/29/2023,8850.31,163,406,,No,No,No,77.79,77.58,broken clouds
+7/31/2023,3784.91,89,176,,No,No,No,73.87,62.91,sky is clear
+8/1/2023,4917.71,107,219,,No,No,No,73.23,68,sky is clear
+8/2/2023,4084.5,83,165,,No,No,No,73.87,71.73,sky is clear
+8/3/2023,5007.9,97,208,,No,No,No,78.3,70.91,sky is clear
+8/4/2023,7199.82,139,299,,No,No,No,79.82,67.18,sky is clear
+8/5/2023,7904.6,149,327,,No,No,No,77.22,67.36,sky is clear
+8/7/2023,3804.7,77,164,,No,No,No,73.34,88.09,light rain
+8/8/2023,3943.42,81,174,,No,No,No,74.29,69.18,sky is clear
+8/9/2023,4088.99,85,186,,No,No,No,74.89,75.82,broken clouds
+8/10/2023,6514.3,120,288,,No,No,No,73.3,81,scattered clouds
+8/11/2023,6360.45,118,257,,No,No,No,77.05,73.45,scattered clouds
+8/12/2023,7183.65,137,310,,No,No,No,80.57,77.73,sky is clear
+8/14/2023,2292.03,54,111,,No,No,No,72.47,90.55,moderate rain
+8/15/2023,3709.85,72,158,,No,No,No,68.94,83.73,light rain
+8/16/2023,7144.67,102,229,,No,No,No,72.42,74,overcast clouds
+8/17/2023,5390.86,95,220,,No,No,No,73.57,75.64,scattered clouds
+8/18/2023,7607.82,136,303,,No,No,No,69.26,66.82,sky is clear
+8/19/2023,7914.65,148,356,,No,No,No,69.86,71.64,sky is clear
+8/21/2023,2594.03,68,119,,No,No,No,82.62,73.55,sky is clear
+8/22/2023,4353.21,88,287,,No,No,No,76.96,68.09,sky is clear
+8/23/2023,3869.14,88,179,,No,No,No,79.38,69.18,sky is clear
+8/24/2023,5085.75,96,191,,No,No,No,77.79,80.55,sky is clear
+8/25/2023,8265.46,162,325,,No,No,No,83.34,80.45,mist
+8/26/2023,8338.75,164,367,,No,No,No,76.35,77.36,overcast clouds
+8/28/2023,3381.49,76,150,,No,No,No,71.48,63.91,sky is clear
+8/29/2023,4894.76,88,192,,No,No,No,70.88,68.55,sky is clear
+8/30/2023,3795.8,84,160,,No,No,No,67.7,71.09,overcast clouds
+8/31/2023,4790.9,96,204,,No,No,No,68.66,63,sky is clear
+9/1/2023,7351.29,138,289,,No,No,No,71.66,69,sky is clear
+9/2/2023,4767.71,96,205,,Ohio State Football Gameday,No,No,77.04,71.55,sky is clear
+9/3/2023,6176.61,117,285,,No,No,No,81.27,73.18,scattered clouds
+9/5/2023,2721,65,126,,No,No,No,82.51,68.55,sky is clear
+9/6/2023,4160.51,95,184,,No,No,No,80.04,74,sky is clear
+9/7/2023,3628.37,80,158,,No,No,No,72.77,79.91,overcast clouds
+9/8/2023,6676.08,133,283,,No,No,No,71.77,83.73,overcast clouds
+9/9/2023,8289.28,135,334,,Ohio State Football Gameday,No,No,70.38,76,overcast clouds
+9/10/2023,4606.7,83,194,,No,No,No,70.94,74.27,broken clouds
+9/11/2023,2739.7,66,123,,No,No,No,70.32,71.64,scattered clouds
+9/12/2023,3457.62,76,129,,No,No,No,66.12,89.73,light rain
+9/13/2023,3702.81,74,155,,No,No,No,66.37,74.09,broken clouds
+9/14/2023,3701.29,77,165,,No,No,No,64.5,69.27,sky is clear
+9/15/2023,6382.84,124,260,,No,No,No,64.99,60.36,sky is clear
+9/16/2023,5766.14,108,239,,Ohio State Football Gameday,No,No,65.14,62.91,sky is clear
+9/17/2023,5681.95,101,265,,No,No,No,66.21,75.45,sky is clear
+9/18/2023,3341.92,70,145,,No,No,No,65.66,72,scattered clouds
+9/19/2023,3152.75,78,149,,No,No,No,63.61,65.09,sky is clear
+9/20/2023,3963.65,93,186,,No,No,No,70.04,62.09,sky is clear
+9/21/2023,3456.55,85,174,,No,No,No,71.89,62.09,sky is clear
+9/22/2023,7022.34,146,299,,No,No,No,71.43,60,sky is clear
+9/23/2023,5681.1,126,240,,Ohio State Football Gameday,No,No,66.7,56.82,sky is clear
+9/24/2023,3976.45,88,179,,No,No,No,66.05,72.18,overcast clouds
+9/25/2023,2291.08,56,100,,No,No,No,65.81,84.91,overcast clouds
+9/26/2023,2905.09,58,130,,No,No,No,68.55,79.64,overcast clouds
+9/27/2023,4391.36,93,189,,No,No,No,67.88,76.73,overcast clouds
+9/28/2023,3693.98,75,167,,No,No,No,65.71,87.55,light rain
+9/29/2023,6726.73,130,294,,No,No,No,69.12,82.91,mist
+9/30/2023,8851.68,158,381,,No,No,No,69.12,77.67,broken clouds
+10/1/2023,5662.99,105,257,,No,No,No,72.43,69.18,sky is clear
+10/2/2023,3189.01,73,130,,No,No,No,74.23,65.64,sky is clear
+10/3/2023,4510.41,97,181,,No,No,No,76.06,65.18,sky is clear
+10/4/2023,3672.1,85,164,,No,No,No,75.44,62.55,sky is clear
+10/5/2023,3599.36,81,145,,No,No,No,71.87,72.09,overcast clouds
+10/6/2023,5431.91,122,248,,No,No,No,67.01,74.55,scattered clouds
+10/7/2023,6436.84,121,283,,Ohio State Football Gameday,No,No,51.44,69.18,overcast clouds
+10/8/2023,4545.93,90,212,,No,No,No,48.83,70.18,overcast clouds
+10/9/2023,3350.7,71,154,Columbus Day,No,No,No,54.58,62.18,overcast clouds
+10/10/2023,4070.7,89,185,,No,No,No,55.37,52,sky is clear
+10/11/2023,3610.59,75,162,,No,No,No,57.7,53.73,sky is clear
+10/12/2023,4661.22,83,185,,No,No,No,65.33,61.55,sky is clear
+10/13/2023,7183.76,141,317,,No,No,No,63.25,61.18,sky is clear
+10/14/2023,8315.92,141,329,,Ohio State Football Gameday,No,No,62.5,85.42,light rain
+10/15/2023,4513.92,92,207,,No,No,No,52.44,74.82,overcast clouds
+10/16/2023,3564.42,66,130,,No,No,No,51.41,82.73,overcast clouds
+10/17/2023,3483.69,79,143,,No,No,No,53.11,75.18,overcast clouds
+10/18/2023,2982.02,75,153,,No,No,No,52.75,73.09,sky is clear
+10/19/2023,3065.7,58,127,,No,No,No,58.39,71.55,sky is clear
+10/20/2023,5427.43,115,240,,No,No,No,54.54,91.18,light rain
+10/21/2023,6027.6,108,253,,Ohio State Football Gameday,No,No,52.93,76.91,broken clouds
+10/22/2023,4446.88,88,185,,No,No,No,51.21,70.45,broken clouds
+10/23/2023,3064.74,60,126,,No,No,No,50.81,68,sky is clear
+10/24/2023,3980.48,82,160,,No,No,No,64.07,57.27,sky is clear
+10/25/2023,4034.59,81,157,Halloween,No,No,No,66.73,53.45,sky is clear
+10/26/2023,3948.03,82,153,,No,No,No,67.63,65.91,broken clouds
+10/27/2023,6864.17,125,266,,No,No,No,64.29,91.36,light rain
+10/28/2023,4993.52,99,210,,Ohio State Football Gameday,No,No,60.45,91.18,light rain
+10/29/2023,5150.91,78,166,,No,No,No,54.53,96.54,light rain
+10/30/2023,2853.69,60,116,,No,No,No,45.18,90.58,light rain
+10/31/2023,2734.2,62,101,,No,No,No,39.28,73.64,broken clouds
+11/1/2023,4585.5,99,194,,No,No,No,38.54,60.82,broken clouds
+11/2/2023,3132.1,70,147,,No,No,No,41.85,58.36,sky is clear
+11/3/2023,6826.88,142,301,,No,No,No,51.02,41.18,sky is clear
+11/4/2023,7268.05,131,308,,Ohio State Football Gameday,No,No,58.79,42.45,sky is clear
+11/5/2023,4343.43,80,206,,No,No,No,50.31,73.45,sky is clear
+11/6/2023,3276.49,74,154,,No,No,No,53.64,67.09,sky is clear
+11/7/2023,3343.05,72,143,,No,No,No,61.85,62.55,sky is clear
+11/8/2023,3110.36,75,158,,No,No,No,56.43,71.18,sky is clear
+11/9/2023,3673.59,81,168,,No,No,No,55.38,74.45,overcast clouds
+11/10/2023,7386.33,141,291,,No,No,No,52.72,53.82,sky is clear
+11/11/2023,7647.74,136,289,Veterans Day,No,No,No,42.55,71.73,sky is clear
+11/12/2023,4785.2,77,152,,Ohio State Football Gameday,No,No,45.56,63.55,sky is clear
+11/13/2023,2719.69,70,129,,No,No,No,48.84,59.27,sky is clear
+11/14/2023,3142.65,74,144,,No,No,No,46.35,57.64,sky is clear
+11/15/2023,4141.4,82,174,,No,No,No,50.87,55.45,sky is clear
+11/16/2023,4302.1,92,179,,No,No,No,53.13,58.64,sky is clear
+11/17/2023,6762.67,134,295,,No,No,No,57.81,82.67,light rain
+11/18/2023,6658.92,123,270,,Ohio State Football Gameday,No,No,42.26,72,sky is clear
+11/19/2023,4863.09,92,237,,No,No,No,45.24,67.27,sky is clear
+11/20/2023,3473.15,72,122,,No,No,No,42.84,68.36,sky is clear
+11/21/2023,4078.78,91,182,,No,No,No,48.26,95,light rain
+11/22/2023,5243.95,100,218,,No,No,No,42.69,87.45,overcast clouds
+11/24/2023,6145.09,108,283,,No,No,No,38.34,76,sky is clear
+11/25/2023,4517.9,85,180,,Ohio State Football Gameday,No,No,34.67,63,sky is clear
+11/26/2023,4305.22,87,201,,No,No,No,40.81,82.45,light rain
+11/27/2023,3639.52,79,144,,No,No,No,32.84,73.64,overcast clouds
+11/28/2023,3034.95,71,120,,No,No,No,23.86,65.27,overcast clouds
+11/29/2023,2960.78,76,124,,No,No,No,30.47,63,sky is clear
+11/30/2023,3329.15,78,126,,No,No,No,44.53,64.18,sky is clear
+12/1/2023,5583.26,113,250,,No,No,No,44.33,92.38,light rain
+12/2/2023,7655.7,139,352,,No,No,No,53.09,85.55,overcast clouds
+12/3/2023,4387.04,73,183,,No,No,No,47.86,88.55,overcast clouds
+12/4/2023,3437.66,70,128,,No,No,No,38.01,79.82,sky is clear
+12/5/2023,3254.09,67,118,,No,No,No,36.78,91.85,light rain
+12/6/2023,3407.36,80,153,,No,No,No,37.61,74.73,overcast clouds
+12/7/2023,2793.45,75,116,,No,No,No,42.8,70.73,sky is clear
+12/8/2023,8758.41,155,322,,No,No,No,51.93,51.45,sky is clear
+12/9/2023,7484.99,143,340,,No,No,No,54.41,89.64,overcast clouds
+12/10/2023,5308.17,97,219,,No,No,No,38.47,76,overcast clouds
+12/11/2023,3224.8,85,146,,No,No,No,35.2,75.73,overcast clouds
+12/12/2023,4422.62,85,181,,No,No,No,38.42,69.91,sky is clear
+12/13/2023,3525.35,70,146,,No,No,No,34.61,67.64,sky is clear
+12/14/2023,5126.43,96,209,,No,No,No,35.93,65.36,sky is clear
+12/15/2023,6961.55,127,308,,No,No,No,39.95,62.91,sky is clear
+12/16/2023,9310.15,145,350,,No,No,No,43.93,61.27,sky is clear
+12/17/2023,5437.3,101,235,,No,No,No,45.8,93.55,moderate rain
+12/18/2023,3779.45,69,144,,No,No,No,35.88,82.55,overcast clouds
+12/19/2023,5147.53,98,212,,No,No,No,30.68,71.55,overcast clouds
+12/20/2023,5409.49,115,254,,No,No,No,33.69,69.09,sky is clear
+12/21/2023,6975.65,92,254,,No,No,No,39.6,64.82,sky is clear
+12/22/2023,7749.49,134,323,,No,No,No,41.01,70,overcast clouds
+12/23/2023,6014.92,109,226,,No,No,No,44.18,82.91,light rain
+12/24/2023,2222.45,34,82,Christmas Eve,No,No,No,50.7,93.55,mist
+12/26/2023,6743.42,106,272,,No,No,No,55.83,85.64,overcast clouds
+12/27/2023,5821.19,110,266,,No,No,No,44.21,94.08,overcast clouds
+12/28/2023,5902.86,128,282,,No,No,No,42.43,91.82,mist
+12/29/2023,6723.53,122,275,,No,No,No,37.17,86.55,overcast clouds
+12/30/2023,8279.9,142,331,,No,No,No,38.39,81.27,overcast clouds
+12/31/2023,7713.32,134,310,New Year's Eve,No,No,No,39.28,82.82,overcast clouds
+1/2/2024,2849.1,61,134,,No,No,No,35.1,74.09,overcast clouds
+1/3/2024,2539.9,57,122,,No,No,No,33.58,82.73,sky is clear
+1/4/2024,3123.61,71,153,,No,No,No,31.78,72.55,overcast clouds
+1/5/2024,6177.25,123,264,,No,No,No,27.32,78.91,sky is clear
+1/6/2024,7278.86,137,311,,No,No,No,33.82,86.17,light rain
+1/7/2024,3765.22,73,182,,No,No,No,34.79,91.69,light rain
+1/8/2024,2747.2,51,83,,No,No,No,35.74,74.73,overcast clouds
+1/9/2024,2662.03,56,100,,No,No,No,43.02,94.91,light rain
+1/10/2024,3436.57,74,142,,No,No,No,35.45,89.67,overcast clouds
+1/11/2024,3493.61,84,159,,No,No,No,39.04,76.18,overcast clouds
+1/12/2024,6273.02,111,227,,No,No,No,37.06,81,light rain
+1/13/2024,5973.7,102,251,,No,No,No,24.91,75.91,light snow
+1/14/2024,3701.56,71,165,,No,No,No,11.68,66,sky is clear
+1/15/2024,4310.96,88,195,Martin Luther King Jr. Day,No,No,No,12.07,66.55,sky is clear
+1/16/2024,2294.7,52,96,,No,No,No,13,71.18,broken clouds
+1/17/2024,2758.25,68,124,,No,No,No,15.55,57.55,sky is clear
+1/18/2024,2360.41,55,88,,No,No,No,26.13,51.27,overcast clouds
+1/19/2024,5073.84,95,188,,No,No,No,24.22,83.64,light snow
+1/20/2024,9113.04,159,355,,No,No,No,11.51,74.64,light snow
+1/21/2024,3590.85,60,139,,No,No,No,19.81,75.82,overcast clouds
+1/22/2024,2288.59,54,111,,No,No,No,26.5,67.36,sky is clear
+1/23/2024,2939.37,64,114,,No,No,No,37.36,82.5,light rain
+1/24/2024,3032.25,70,122,,No,No,No,46.56,97.55,moderate rain
+1/25/2024,3042.79,61,129,,No,No,No,52.96,98.07,light rain
+1/26/2024,7394.04,137,300,,No,No,No,50.91,89.73,overcast clouds
+1/27/2024,8624.44,154,381,,No,No,No,42.23,94.45,overcast clouds
+1/28/2024,3146.42,57,127,,No,No,No,40.89,95.64,light rain
+1/29/2024,1833.35,48,82,,No,No,No,35.18,86.45,overcast clouds
+1/30/2024,3289.26,59,120,,No,No,No,35.72,86.27,overcast clouds
+1/31/2024,4641.01,84,159,,No,No,No,37.15,90.55,overcast clouds
+2/1/2024,3296.17,73,126,,No,No,No,43.31,77.82,sky is clear
+2/2/2024,7108.9,139,261,,No,No,No,43.11,73.91,overcast clouds
+2/3/2024,9061.86,155,344,,No,No,No,36.68,80.27,sky is clear
+2/4/2024,4321.38,82,175,,No,No,No,41.85,66.82,sky is clear
+2/5/2024,2532.26,58,99,,No,No,No,39.75,69.27,sky is clear
+2/6/2024,2742.28,60,104,,No,No,No,38.72,67.27,sky is clear
+2/7/2024,3196.65,74,123,,No,No,No,41.45,57.64,sky is clear
+2/8/2024,3184.92,62,131,,No,No,No,50.76,49.27,sky is clear
+2/9/2024,6555.46,123,273,,No,No,No,56.09,66.55,scattered clouds
+2/10/2024,8028.66,144,330,,No,No,No,56.33,83.64,light rain
+2/11/2024,1629.47,31,74,,No,No,No,41.9,72.91,overcast clouds
+2/12/2024,1457.9,39,58,,No,No,No,38.7,72.82,sky is clear
+2/13/2024,3374.48,73,114,,No,No,No,39.36,63.09,scattered clouds
+2/14/2024,6248.89,114,235,Valentine's Day,No,No,No,38.22,55,sky is clear
+2/15/2024,3885.68,83,167,,No,No,No,43.45,64.18,sky is clear
+2/16/2024,4314.65,79,154,,No,No,No,33.78,64.91,overcast clouds
+2/17/2024,9814.4,166,393,,No,No,No,23.65,75.73,light snow
+2/18/2024,5649.93,92,228,,No,No,No,24.98,65.55,sky is clear
+2/19/2024,4361.4,94,180,,No,No,No,32.56,71.27,sky is clear
+2/20/2024,3240.35,62,105,,No,No,No,40.82,59.45,sky is clear
+2/21/2024,2376.65,54,116,,No,No,No,47.83,51.55,sky is clear
+2/22/2024,5705.69,94,205,,No,No,No,50.33,72.91,light rain
+2/23/2024,6920.47,117,243,,No,No,No,49.89,80.91,mist
+2/24/2024,10820.68,157,420,,No,No,No,27.95,77.18,snow
+2/25/2024,4358.71,82,196,,No,No,No,36.11,67.18,sky is clear
+2/26/2024,2604.12,62,114,,No,No,No,52.78,59.64,sky is clear
+2/27/2024,3033.65,60,103,,No,No,No,62.04,62.73,light rain
+2/28/2024,3728.54,66,138,,No,No,No,46.73,86.45,overcast clouds
+2/29/2024,2915.56,61,119,,No,No,Arnold Classic,32.16,49.27,sky is clear
+3/1/2024,5758.51,106,244,,No,No,Arnold Classic,37.71,60.09,sky is clear
+3/2/2024,10839.64,172,459,,No,No,Arnold Classic,46.94,91.67,overcast clouds
+3/3/2024,4851.42,74,216,,No,No,Arnold Classic,56.11,75,overcast clouds
+3/4/2024,2948.35,62,115,,No,No,No,62.38,71.55,scattered clouds
+3/5/2024,2591.55,57,109,,No,No,No,63.42,73.09,light rain
+3/6/2024,3701.6,78,152,,No,No,No,53.69,96.09,light rain
+3/7/2024,4298.85,83,169,,No,No,No,47.51,83,overcast clouds
+3/8/2024,6964.52,123,270,,No,No,No,51.33,90.09,light rain
+3/9/2024,10275.9,173,409,,No,No,No,50.26,90.09,light rain
+3/10/2024,4462.24,86,199,,No,No,No,35.28,72.18,light rain
+3/11/2024,3237.13,68,110,,No,No,No,42.76,52.27,sky is clear
+3/12/2024,2652.6,60,98,,No,No,No,55.7,50.09,sky is clear
+3/13/2024,3824.85,80,165,,No,No,No,60.9,48,sky is clear
+3/14/2024,4332.89,70,130,,No,No,No,64.71,61.58,sky is clear
+3/15/2024,5545.74,107,209,,No,No,No,49.99,88.75,light rain
+3/16/2024,8697.7,149,351,,No,No,No,50.05,69.91,sky is clear
+3/17/2024,3332.26,64,136,,No,No,No,45.36,53.27,sky is clear
+3/18/2024,2502.97,52,123,,No,No,No,33.25,60.27,overcast clouds
+3/19/2024,2749.05,68,120,,No,No,No,38.8,53.82,scattered clouds
+3/20/2024,4968.11,82,162,,No,No,No,47.02,49,scattered clouds
+3/21/2024,3744.82,77,152,,No,No,No,33.75,45.45,sky is clear
+3/22/2024,6206.57,118,241,,No,No,No,39.4,55.91,overcast clouds
+3/23/2024,9499.72,140,358,,No,No,No,36.5,69.91,overcast clouds
+3/24/2024,4960.45,62,149,,No,No,No,37.92,50,sky is clear
+3/25/2024,2882.15,62,115,,No,No,No,56.43,32.45,sky is clear
+3/26/2024,3879.74,79,151,,No,No,No,51.85,84.45,light rain
+3/27/2024,3902.03,76,167,,No,No,No,44.97,74.36,overcast clouds
+3/28/2024,6002.76,86,191,,No,No,No,42.68,65.73,sky is clear
+3/29/2024,7424.17,130,277,,No,No,No,51.13,54.55,sky is clear
+3/30/2024,8005.5,131,311,,No,No,No,55.5,74.82,moderate rain
+4/1/2024,2981.41,58,119,,No,No,No,58.46,82.82,overcast clouds
+4/2/2024,2232.6,52,93,,No,No,No,61.08,92.73,light rain
+4/3/2024,3903.7,77,164,,No,No,No,45.62,73.36,overcast clouds
+4/4/2024,5163.63,100,200,,No,No,No,41.47,82.64,light rain
+4/5/2024,7568.17,142,284,,No,No,No,41.89,69.73,overcast clouds
+4/6/2024,9512.93,164,401,,No,No,No,46.92,60.36,overcast clouds
+4/7/2024,3910.61,69,152,,No,No,No,50.84,58.82,sky is clear
+4/8/2024,4051.69,78,173,,No,No,No,65.39,52.91,sky is clear
+4/9/2024,3347.34,70,126,,No,No,No,63.68,80.18,overcast clouds
+4/10/2024,3488.85,70,145,,No,No,No,59.74,90.75,light rain
+4/11/2024,3278.45,60,145,,No,No,No,61.27,95.45,light rain
+4/12/2024,9135.78,147,307,,No,No,No,51.68,83.55,light rain
+4/13/2024,9067.43,149,332,,No,No,No,55.85,52.73,sky is clear
+4/14/2024,4390.37,64,181,,No,No,No,69.86,51.45,sky is clear
+4/15/2024,4361.32,81,159,,No,No,No,71.13,62.91,sky is clear
+4/16/2024,4040.35,84,160,,No,No,No,71.49,50.27,sky is clear
+4/17/2024,3981.26,76,144,,No,No,No,69.33,75.73,light rain
+4/18/2024,4615.36,87,192,,No,No,No,63.98,63.91,sky is clear
+4/19/2024,7411.41,129,269,,No,No,No,60.2,75.64,overcast clouds
+4/20/2024,8043.42,164,393,,No,No,No,52.24,48.91,sky is clear
+4/21/2024,3516.06,66,154,,No,No,No,45.65,53.73,overcast clouds
+4/22/2024,3554.4,70,136,,No,No,No,51.31,50.91,sky is clear
+4/23/2024,4044.23,82,143,,No,No,No,59.74,46.36,sky is clear
+4/24/2024,3663.55,76,144,,No,No,No,53.13,77.55,overcast clouds
+4/25/2024,3507,71,132,,No,No,No,48.72,62.18,sky is clear
+4/26/2024,7586.78,134,302,,No,No,No,61.4,53.18,sky is clear
+4/27/2024,9502.71,162,353,,No,No,No,72.53,59.73,scattered clouds
+4/28/2024,5455.34,91,236,,No,No,No,75.16,60.27,scattered clouds
+4/29/2024,1990.06,43,71,,No,No,No,75.3,58.45,sky is clear
+4/30/2024,4162.21,76,125,,No,No,No,66.89,79,moderate rain
+5/1/2024,4955.59,74,142,,No,No,No,70.75,60.64,sky is clear
+5/2/2024,3096.07,63,120,,No,No,No,75.62,53.09,sky is clear
+5/3/2024,5707.89,115,233,,No,No,No,72.25,70,light rain
+5/4/2024,9908.53,151,372,,No,No,No,70.61,85.27,light rain
+5/5/2024,20480.35,257,750,Cinco de Mayo,No,No,No,71.13,84,overcast clouds
+5/6/2024,4130.22,59,121,,No,No,No,67.11,91.09,light rain
+5/7/2024,3726.8,64,128,,No,No,No,70.87,82,broken clouds
+5/8/2024,6159.34,80,158,,No,No,No,74.3,64.91,sky is clear
+5/9/2024,4352.78,78,147,,No,No,No,66.48,87.27,moderate rain
+5/10/2024,7263.8,126,274,,No,No,No,59.78,69.36,scattered clouds
+5/11/2024,9528.36,159,357,,No,No,No,59.38,68.64,broken clouds
+5/12/2024,9417.42,109,416,,No,No,No,62.39,56,sky is clear
+5/13/2024,2770.33,63,111,,No,No,No,71.01,53.18,sky is clear
+5/14/2024,3577.5,72,122,,No,No,No,63.2,90.77,overcast clouds
+5/15/2024,4558.26,91,167,,No,No,No,64.78,94.27,light rain
+5/16/2024,4588.77,83,189,,No,No,No,70.17,73.55,sky is clear
+5/17/2024,7233.95,130,275,,No,No,No,67.85,87.91,light rain
+5/18/2024,11701.52,148,386,,No,No,No,72.95,76.27,light rain
+5/19/2024,3733.35,38,109,,No,No,No,77.72,61.09,sky is clear
+5/20/2024,3077.59,64,124,,No,No,No,79.68,58.64,sky is clear
+5/21/2024,3919.3,83,155,,No,No,No,80.22,59,scattered clouds
+5/22/2024,5317.7,86,206,,No,No,No,75.12,75.91,light rain
+5/23/2024,4509.66,87,391,,No,No,No,74.29,68.64,broken clouds
+5/24/2024,7852.3,142,293,,No,No,No,76.9,69.27,light rain
+5/25/2024,10026.17,120,268,,No,No,No,78.64,65.73,light rain
+5/26/2024,3682.55,48,100,,No,No,No,75.89,72.36,sky is clear
+5/28/2024,4070.75,79,135,,No,No,No,69.57,66,light rain
+5/29/2024,3768.45,82,158,,No,No,No,62.32,78.64,light rain
+5/30/2024,6101.15,102,240,,No,No,No,64.37,53.73,sky is clear
+5/31/2024,7110.08,132,273,,No,No,No,65.89,46.73,sky is clear
+6/1/2024,11964.13,133,338,,No,No,No,71.63,50.64,sky is clear
+6/2/2024,4472,55,135,,No,No,No,66,90.25,overcast clouds
+6/3/2024,3344.06,71,141,,No,No,No,74.96,76.82,light rain
+6/4/2024,4769.86,86,160,,No,No,No,79.87,64.18,sky is clear
+6/5/2024,4550.75,96,180,,No,No,No,75.44,82.18,broken clouds
+6/6/2024,5649.4,110,965,,No,No,No,75.17,72.09,light rain
+6/7/2024,7755.58,124,255,,No,No,No,71.18,50.55,sky is clear
+6/8/2024,7584.15,127,285,,No,No,No,70.04,58.36,sky is clear
+6/9/2024,3233.36,47,118,,No,No,No,70.59,56.64,scattered clouds
+6/10/2024,3362.23,64,136,,No,No,No,59.8,68,scattered clouds
+6/11/2024,4429.62,92,203,,No,No,No,63,61.4,scattered clouds
+6/12/2024,4850.12,98,223,,No,No,No,70.9,51.9,scattered clouds
+6/13/2024,5524.85,112,218,,No,No,No,75.6,53,scattered clouds
+6/14/2024,9144.15,133,294,,No,No,No,77.5,54.2,scattered clouds
+6/15/2024,9749.01,151,391,,No,No,No,71.6,45.1,sky is clear
+6/16/2024,6617.57,89,280,,No,No,No,75.9,45.8,sky is clear
+6/17/2024,2875.79,57,128,,No,No,No,81.5,60.3,scattered clouds
+6/18/2024,5151.68,102,224,,No,No,No,83.8,63.3,scattered clouds
+6/19/2024,6368.56,112,264,,No,No,No,82.5,69.2,scattered clouds
+6/20/2024,5144.12,93,165,,No,No,No,82.6,64.9,scattered clouds
+6/21/2024,7786.8,135,287,,No,No,No,85.5,56.8,broken clouds
+6/22/2024,8208.82,144,307,,No,No,No,84.9,56.2,broken clouds
+6/23/2024,2280.45,45,97,,No,No,No,81,67.8,light rain
+6/24/2024,4263.25,93,178,,No,No,No,75.5,60,scattered clouds
+6/25/2024,4560.76,85,196,,No,No,No,74,69.3,light rain
+6/26/2024,4869.34,92,206,,No,No,No,73,81.3,light rain
+6/27/2024,4351.3,91,196,,No,No,No,70.6,72.9,broken clouds
+6/28/2024,7933.64,152,319,,No,No,No,76,58.2,scattered clouds
+6/29/2024,10086.88,157,372,,No,No,No,82.1,72.2,light rain
+6/30/2024,2852.55,48,134,,No,No,No,76.1,66,scattered clouds
+7/1/2024,4395.07,91,191,,No,No,No,66.5,58,broken clouds
+7/2/2024,4263.52,87,177,,No,No,No,73.9,52.3,scattered clouds
+7/3/2024,5302.46,98,201,,No,No,No,80.5,70.4,light rain
+7/4/2024,0,0,0,,No,No,No,79.1,83.5,light rain
+7/5/2024,8488.11,169,353,,No,No,No,75.4,81.2,light rain
+7/6/2024,7848.37,139,326,,No,No,No,76.5,67.3,scattered clouds
+7/7/2024,2018.43,34,90,,No,No,No,77.1,63.7,scattered clouds
+7/8/2024,3581.25,77,137,,No,No,No,79.4,61.5,scattered clouds
+7/9/2024,9231.7,105,192,,No,No,No,81,66.2,scattered clouds
+7/10/2024,3146.88,81,153,,No,No,No,74.1,76.5,scattered clouds
+7/11/2024,5751.49,105,224,,No,No,No,74.6,64.2,scattered clouds
+7/12/2024,7500.3,144,283,,No,No,No,79.1,63,scattered clouds
+7/13/2024,11604.71,182,442,,No,No,No,79.6,70.1,light rain
+7/14/2024,1821.11,34,90,,No,No,No,76.8,77.7,light rain
+7/15/2024,4390.82,92,195,,No,No,No,78.5,73.7,light rain
+7/16/2024,3728.53,75,149,,No,No,No,81.5,62.8,scattered clouds
+7/17/2024,3931.35,77,156,,No,No,No,77.4,76.3,light rain
+7/18/2024,5879.74,109,223,,No,No,No,71.8,62,scattered clouds
+7/19/2024,8565.95,154,330,,No,No,No,70.1,59.9,scattered clouds
+7/20/2024,9933.96,170,346,,No,No,No,73.5,52.5,scattered clouds
+7/21/2024,2374.8,45,98,,No,No,No,73.2,59.4,scattered clouds
+7/22/2024,4591.1,97,184,,No,No,No,73.1,71.1,scattered clouds
+7/23/2024,6064.87,109,185,,No,No,No,75.4,73.4,light rain
+7/24/2024,7013.49,136,520,,No,No,No,76.9,71.1,scattered clouds
+7/25/2024,4524.32,104,217,,No,No,No,76.2,66,scattered clouds
+7/26/2024,6300.5,115,265,,No,No,No,72.4,57.2,scattered clouds
+7/27/2024,8201.43,145,348,,No,No,No,74.1,54.7,sky is clear
+7/28/2024,2014.69,31,97,,No,No,No,77.7,58.5,scattered clouds
+7/29/2024,4056.25,74,139,,No,No,No,78.8,76.8,light rain
+7/30/2024,5546.65,79,208,,No,No,No,79,73.4,scattered clouds
+7/31/2024,4750.86,82,257,,No,No,No,81.1,73.3,scattered clouds
+8/1/2024,5416.3,100,204,,No,No,No,80,74.7,light rain
+8/2/2024,6849.14,124,254,,No,No,No,74.5,86.1,light rain
+8/3/2024,9545.09,166,397,,No,No,No,74.2,83.6,light rain
+8/4/2024,2499.51,46,121,,No,No,No,79,70.9,broken clouds
+8/5/2024,3781.25,81,165,,No,No,No,81,70.4,scattered clouds
+8/6/2024,6615.1,114,279,,No,No,No,81.9,70.2,light rain

@@ -19,7 +19,7 @@ const App = () => {
             if (response.ok) {
                 setAiResponse(data.response);
             } else {
-                throw new Error(data.error || 'Something went wrong');
+                throw new Error(data.error || 'There was an error in processing the response');
             }
         } catch (error) {
             console.error('Error:', error);

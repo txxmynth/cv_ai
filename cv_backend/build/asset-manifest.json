@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0cfc85c5.css",
+    "main.js": "/static/js/main.089e21f9.js",
+    "static/js/453.59b44dda.chunk.js": "/static/js/453.59b44dda.chunk.js",
+    "static/media/chile_verde_patio.png": "/static/media/chile_verde_patio.03313964344732a70db4.png",
+    "index.html": "/index.html",
+    "main.0cfc85c5.css.map": "/static/css/main.0cfc85c5.css.map",
+    "main.089e21f9.js.map": "/static/js/main.089e21f9.js.map",
+    "453.59b44dda.chunk.js.map": "/static/js/453.59b44dda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cfc85c5.css",
+    "static/js/main.089e21f9.js"
+  ]
+}
